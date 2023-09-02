@@ -8,6 +8,11 @@ I successfully completed a hardware project called Covid Janitor, a robot design
 # Role 
  coding & simulating
 
+# Technologies
+
+C, Atmel studio, Blender, Proteus
+
+
 # Outputs 
 
 Covid Janitor
